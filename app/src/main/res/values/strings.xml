@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meiko English</string>
+    <!--品詞-->
+    <string name="quiz_number">%d問目</string>
+    <!--結果-->
+    <string name="result_score">10問中 %d問正解 </string>
+</resources>
